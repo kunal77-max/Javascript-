@@ -1,4 +1,5 @@
 # Javascript-
 learning javascript from basics
 <br>
-Author-Kunal
+Author-Kunal (Kunz)
+
